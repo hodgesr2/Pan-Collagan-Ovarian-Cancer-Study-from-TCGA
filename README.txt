@@ -20,7 +20,7 @@ This study is my thesis for my Master's in Data Science degree.
 
 6. Load Pan-Collagen Gene Survival Analysis in Ovarian Cancer.RMD in R and load CleanedOVData.CSV and run.
 
-7. If you would like to see the HTML file for finished analysis then open the HTML file.
+7. If you would like to see the HTML file for finished analysis then open the HTML file, Pan-Collagen-Gene-Survival-Analysis-in-Ovarian-Cancer.html.
 
 NOTE: Packages Required in R for viewing.
 
