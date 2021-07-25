@@ -2,7 +2,7 @@ Welcome.
 
 This is a survival analysis from the TCGA database examining copy number variation in ovarian neoplasms with regards to collagen genes.
 
-This study was cleaned in Alteryx Designer and analysis performed in R.
+This study was cleaned in Alteryx Designer and analysis performed in R and SPSS.
 
 Three new findings were found to be statistically significant.
 
@@ -18,9 +18,11 @@ This study is my thesis for my Master's in Data Science degree.
 
 5. If you don't have Alteryx Designer you can see the cleaned dataset, CleanedOVData.CSV.
 
-6. Load Pan-Collagen Gene Survival Analysis in Ovarian Cancer.RMD in R and load CleanedOVData.CSV and run.
+6. Load Pan-Collagen Gene Survival Analysis in Ovarian Cancer.RMD in R and load CleanedOVData.CSV and run or load into SPSS.
 
 7. If you would like to see the HTML file for finished analysis then open the HTML file, Pan-Collagen-Gene-Survival-Analysis-in-Ovarian-Cancer.html.
+
+8. SPSS files are also included.
 
 NOTE: Packages Required in R for viewing.
 
